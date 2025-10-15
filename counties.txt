@@ -5,7 +5,7 @@ Caithness: Stroupster Wind Farm is located in Caithness, Scotland. It consists o
 
 highlands (loch ness area):
 Tom nan Clach is located in Nairnshire, 10 miles east of Inverness. It consists of 13 Vestas V112 turbines, restricted to 39.1MW connection capacity. Greencoat UK Wind acquired a 75% per cent interest in Tom nan Clach from Belltown Power. The wind farm was developed Infinergy.Glen Kyllachy is located in Inverness, Scotland. It consists of 20 Nordex N90 turbines with a total capacity of 48.5MW.
-Dunmaglass is located 15 miles south of Inverness on the eastern side of Loch Ness in the Highlands. It consists of 33 GE 2.85MW turbines with a total capacity of 94MW. Greencoat UK Wind acquired a 35.5 per cent interest in Dunmaglass from SSE, a co-owner. The wind farms were developed by SSE.Corriegarth is located 20 miles south of Inverness on the eastern side of Loch Ness in the Highlands. It consists of 23 Enercon E82-E4 3.02MW turbines with a total capacity of 69.5MW.
+Dunmaglass is located 15 miles south of Inverness on the eastern side of Loch Ness in the Highlands. It consists of 33 GE 2.85MW turbines with a total capacity of 94MW. Greencoat UK Wind acquired a 35.5 per cent interest in Dunmaglass from SSE, a co-owner. The wind farms were developed by SSE.
 Corriegarth is located 20 miles south of Inverness on the eastern side of Loch Ness in the Highlands. It consists of 23 Enercon E82-E4 3.02MW turbines with a total capacity of 69.5MW. Greencoat UK Wind acquired a 100 per cent interest in Corriegarth from Invenergy. The wind farm was developed Invenergy and North British Wind Power.
 Glen Kyllachy is located in Inverness, Scotland. It consists of 20 Nordex N90 turbines with a total capacity of 48.5MW. Greencoat UK Wind acquired a 100 per cent interest in Glen Kyllachy from RWE
 Stronelairg is located 7 miles south east of Fort Augustus on the eastern side of Loch Ness in the Highlands. It consists of 13 Vestas V122 3.45MW turbines and 53 Vestas V117 3.45MW with a total capacity of 227.7MW. Greencoat UK Wind acquired a 35.5 per cent interest in Stronelairg from SSE, a co-owner. The wind farms were developed by SSE.
@@ -31,12 +31,6 @@ South Kyle is located 5km to the east of Dalmellington on the boundary of Dumfri
 North Rhins Wind Farm is located in the North Rhins peninsula, Dumfries and Galloway, Scotland. It consists of 11 Vestas V80 2MW turbines with a total capacity of 22MW. North Rhins is owned jointly by Greencoat UK Wind and Swiss Life Asset Management via a holding company. Greencoat UK Wind acquired its 51.6 per cent interest from AES.
 
 England:
-Hull
-Greemsby
-Liverpool
-Peterborough
-birmingham
-kent
 Middlemoor Wind Farm is located in Northumberland, England. It consists of 18 Vestas V90 3.0MW turbines with a total capacity of 54MW. Greencoat UK Wind acquired a 49 per cent interest in Middlemoor from Innogy.
 Walney is located 9 miles off the Cumbrian coast and consists of 102 Siemens 3.6MW turbines with a total capacity of 367.2MW. Greencoat UK Wind acquired a 25.1 per cent interest in Walney from SSE and now co-owns Walney with Orsted (the operator) and PGGM (the Dutch pension fund).
 Hornsea 1 is located 80 miles off the Yorkshire coast in the North Sea and consists of 174 Siemens 7MW turbines with a grid export capacity of 1,200MW. Greencoat UK Wind acquired a 12.5 per cent interest in Hornsea 1 from GIP and now co-owns it was Orsted (the operator), GIP, TRIG and Equitix.
