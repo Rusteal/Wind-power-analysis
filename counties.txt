@@ -1,0 +1,27 @@
+counties to get data for:
+scotland:
+aberdeenshire: Kildrummy Wind Farm is located in Aberdeenshire, Scotland. It consists of eight Enercon 2.3MW turbines with a total capacity of 18.4MW
+Caithness: Stroupster Wind Farm is located in Caithness, Scotland. It consists of 13 Enercon E70 2.3MW turbines with a total capacity of 29.9MW.
+highlands (loch ness area):
+Tom nan Clach is located in Nairnshire, 10 miles east of Inverness. It consists of 13 Vestas V112 turbines, restricted to 39.1MW connection capacity.
+Glen Kyllachy is located in Inverness, Scotland. It consists of 20 Nordex N90 turbines with a total capacity of 48.5MW.
+Dunmaglass is located 15 miles south of Inverness on the eastern side of Loch Ness in the Highlands. It consists of 33 GE 2.85MW turbines with a total capacity of 94MW.
+Corriegarth is located 20 miles south of Inverness on the eastern side of Loch Ness in the Highlands. It consists of 23 Enercon E82-E4 3.02MW turbines with a total capacity of 69.5MW.
+Stronelairg is located 7 miles south east of Fort Augustus on the eastern side of Loch Ness in the Highlands. It consists of 13 Vestas V122 3.45MW turbines and 53 Vestas V117 3.45MW with a total capacity of 227.7MW. Greencoat UK Wind acquired a 35.5 per cent interest in Stronelairg from SSE, a co-owner. The wind farms were developed by SSE.
+
+Stirlingshire:
+Braes of Doune Wind Farm is located in Stirlingshire, Scotland. It consists of 36 Vestas V80 2MW turbines with a total capacity of 72MW.
+
+south of edinburh:
+Drone Hill is located in the Scottish Borders, Scotland. It consists of 22 Nordex N60 1.3MW turbines with a total capacity of 28.6MW.
+Carcant Wind Farm is located in the Scottish borders.It consists of three Siemens 2.3MW turbines giving a total capacity of 6.9MW, which is constrained to 6MW by the wind farm's grid connection.
+
+south of glasgow
+England:
+Hull
+Greemsby
+Liverpool
+Peterborough
+birmingham
+kent
+wales: Maerdy Wind Farm is located in the Rhondda Valley, Glamorgan, Wales. It consists of eight Siemens 3.0MW turbines with a total capacity of 24MW.
