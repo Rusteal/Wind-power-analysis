@@ -1,22 +1,35 @@
 counties to get data for:
 scotland:
-aberdeenshire: Kildrummy Wind Farm is located in Aberdeenshire, Scotland. It consists of eight Enercon 2.3MW turbines with a total capacity of 18.4MW
-Caithness: Stroupster Wind Farm is located in Caithness, Scotland. It consists of 13 Enercon E70 2.3MW turbines with a total capacity of 29.9MW.
+aberdeenshire: Kildrummy Wind Farm is located in Aberdeenshire, Scotland. It consists of eight Enercon 2.3MW turbines with a total capacity of 18.4MW. Greencoat UK Wind acquired a 100 per cent interest in Kildrummy from BayWa. The wind farm was developed by Npower Renewables, part of the RWE Group.
+Caithness: Stroupster Wind Farm is located in Caithness, Scotland. It consists of 13 Enercon E70 2.3MW turbines with a total capacity of 29.9MW. Greencoat UK Wind acquired a 100 per cent interest in Stroupster from BayWa. The wind farm was developed by Npower Renewables, part of the RWE Group.
+
 highlands (loch ness area):
-Tom nan Clach is located in Nairnshire, 10 miles east of Inverness. It consists of 13 Vestas V112 turbines, restricted to 39.1MW connection capacity.
-Glen Kyllachy is located in Inverness, Scotland. It consists of 20 Nordex N90 turbines with a total capacity of 48.5MW.
-Dunmaglass is located 15 miles south of Inverness on the eastern side of Loch Ness in the Highlands. It consists of 33 GE 2.85MW turbines with a total capacity of 94MW.
-Corriegarth is located 20 miles south of Inverness on the eastern side of Loch Ness in the Highlands. It consists of 23 Enercon E82-E4 3.02MW turbines with a total capacity of 69.5MW.
+Tom nan Clach is located in Nairnshire, 10 miles east of Inverness. It consists of 13 Vestas V112 turbines, restricted to 39.1MW connection capacity. Greencoat UK Wind acquired a 75% per cent interest in Tom nan Clach from Belltown Power. The wind farm was developed Infinergy.Glen Kyllachy is located in Inverness, Scotland. It consists of 20 Nordex N90 turbines with a total capacity of 48.5MW.
+Dunmaglass is located 15 miles south of Inverness on the eastern side of Loch Ness in the Highlands. It consists of 33 GE 2.85MW turbines with a total capacity of 94MW. Greencoat UK Wind acquired a 35.5 per cent interest in Dunmaglass from SSE, a co-owner. The wind farms were developed by SSE.Corriegarth is located 20 miles south of Inverness on the eastern side of Loch Ness in the Highlands. It consists of 23 Enercon E82-E4 3.02MW turbines with a total capacity of 69.5MW.
+Corriegarth is located 20 miles south of Inverness on the eastern side of Loch Ness in the Highlands. It consists of 23 Enercon E82-E4 3.02MW turbines with a total capacity of 69.5MW. Greencoat UK Wind acquired a 100 per cent interest in Corriegarth from Invenergy. The wind farm was developed Invenergy and North British Wind Power.
+Glen Kyllachy is located in Inverness, Scotland. It consists of 20 Nordex N90 turbines with a total capacity of 48.5MW. Greencoat UK Wind acquired a 100 per cent interest in Glen Kyllachy from RWE
 Stronelairg is located 7 miles south east of Fort Augustus on the eastern side of Loch Ness in the Highlands. It consists of 13 Vestas V122 3.45MW turbines and 53 Vestas V117 3.45MW with a total capacity of 227.7MW. Greencoat UK Wind acquired a 35.5 per cent interest in Stronelairg from SSE, a co-owner. The wind farms were developed by SSE.
 
 Stirlingshire:
-Braes of Doune Wind Farm is located in Stirlingshire, Scotland. It consists of 36 Vestas V80 2MW turbines with a total capacity of 72MW.
+Braes of Doune Wind Farm is located in Stirlingshire, Scotland. It consists of 36 Vestas V80 2MW turbines with a total capacity of 72MW. Greencoat UK Wind acquired a 50% stake in Braes of Doune from SSE in March 2013 at the Company’s IPO, and acquired the remaining 50% interest from Hermes GPE LLP in 2021.
 
 south of edinburh:
-Drone Hill is located in the Scottish Borders, Scotland. It consists of 22 Nordex N60 1.3MW turbines with a total capacity of 28.6MW.
-Carcant Wind Farm is located in the Scottish borders.It consists of three Siemens 2.3MW turbines giving a total capacity of 6.9MW, which is constrained to 6MW by the wind farm's grid connection.
+Drone Hill is located in the Scottish Borders, Scotland. It consists of 22 Nordex N60 1.3MW turbines with a total capacity of 28.6MW. Drone Hill is owned jointly by Greencoat UK Wind and Swiss Life Asset Management via a holding company. Greencoat UK Wind acquired its 51.6 per cent interest from AES.Carcant Wind Farm is located in the Scottish borders.It consists of three Siemens 2.3MW turbines giving a total capacity of 6.9MW, which is constrained to 6MW by the wind farm's grid connection.
+Carcant Wind Farm is located in the Scottish borders.It consists of three Siemens 2.3MW turbines giving a total capacity of 6.9MW, which is constrained to 6MW by the wind farm's grid connection. Greencoat UK Wind acquired a 100 per cent interest in Carcant from SSE.
+Langhope Rig Wind Farm is located near Hawick in the Scottish Borders. It consists of 10 GE xle 1.6MW turbines with a total capacity of 16.0MW. Greencoat UK Wind acquired a 100 per cent interest in Langhope Rig from GE. The wind farm was developed by SSE.
+Middlemoor Wind Farm is located in Northumberland, England. It consists of 18 Vestas V90 3.0MW turbines with a total capacity of 54MW. Greencoat UK Wind acquired a 49 per cent interest in Middlemoor from Innogy.
 
-south of glasgow
+south of glasgow:
+Kype Muir Extension is located in South Lanarkshire, Scotland and will comprise 4 Nordex 3.6MW turbines plus 11 Nordex 4.8MW turbines, with a total capacity of 67.2MW. Greencoat UK Wind acquired a 49.9 per cent interest in Kype Muir Extension from Banks Renewables Limited in December 2023 and a further 15.1 per cent interest from Onpath Energy in September 2024.
+Dalquhandy Wind Farm is located in South Lanarkshire. It consists of 10 Vestas V136 4.2MW turbines giving a total capacity of 42MW. Greencoat UK Wind acquired a 100 per cent interest in Dalquhandy from BayWa r.e.. 
+Douglas West is located in South Lanarkshire, Scotland. It consists of 13 Vestas V136 turbines with a total capacity of 45MW. Greencoat UK Wind acquired a 100 per cent interest in Douglas West from Blue Energy in 2018 with the construction process being managed on our behalf.
+Andershaw is located in South Lanarkshire, Scotland. It consists of 11 Vestas V117 turbines with a total capacity of 35MW. Greencoat UK Wind owns a 67.35% interest in Andershaw having acquired the wind farm from Statkraft in September 2021 and disposed of a 32.65% interest in July 2025.
+Clyde is located in South Lanarkshire, Scotland. Clyde North consists of 47 Siemens 2.3MW turbines with a total capacity of 108.1MW. Clyde Central consists of 49 Siemens 2.3MW turbines with a total capacity of 112.1MW. Clyde South consists of 56 Siemens 2.3MW turbines with a total capacity of 128.8MW. Clyde Extension consists of 54 Siemens 3.2MW turbines with a total capacity of 173MW. Greencoat UK Wind has a 28.2 per cent interest in the Clyde Windfarm (Scotland) SPV. The wind farms were developed by SSE. 
+Twentyshilling is located in Dumfries & Galloway, Scotland. It consists of 9 Vestas V117 turbines with a total capacity of 37.8MW. Greencoat UK Wind acquired a 100 per cent interest in Twentyshilling from Statkraft.
+Windy Rig is located in Dumfries & Galloway, Scotland. It consists of 12 Vestas V112 turbines with a total capacity of 43.2MW. Greencoat UK Wind acquired a 100 per cent interest in Windy Rig from Statkraft.
+South Kyle is located 5km to the east of Dalmellington on the boundary of Dumfries & Galloway and East Ayrshire in Scotland. It consists of 50 turbines with aggregate generating capacity of 240MW. Greencoat UK Wind acquired a 100% interest in South Kyle from Vattenfall.
+North Rhins Wind Farm is located in the North Rhins peninsula, Dumfries and Galloway, Scotland. It consists of 11 Vestas V80 2MW turbines with a total capacity of 22MW. North Rhins is owned jointly by Greencoat UK Wind and Swiss Life Asset Management via a holding company. Greencoat UK Wind acquired its 51.6 per cent interest from AES.
+
 England:
 Hull
 Greemsby
@@ -24,4 +37,38 @@ Liverpool
 Peterborough
 birmingham
 kent
-wales: Maerdy Wind Farm is located in the Rhondda Valley, Glamorgan, Wales. It consists of eight Siemens 3.0MW turbines with a total capacity of 24MW.
+Middlemoor Wind Farm is located in Northumberland, England. It consists of 18 Vestas V90 3.0MW turbines with a total capacity of 54MW. Greencoat UK Wind acquired a 49 per cent interest in Middlemoor from Innogy.
+Walney is located 9 miles off the Cumbrian coast and consists of 102 Siemens 3.6MW turbines with a total capacity of 367.2MW. Greencoat UK Wind acquired a 25.1 per cent interest in Walney from SSE and now co-owns Walney with Orsted (the operator) and PGGM (the Dutch pension fund).
+Hornsea 1 is located 80 miles off the Yorkshire coast in the North Sea and consists of 174 Siemens 7MW turbines with a grid export capacity of 1,200MW. Greencoat UK Wind acquired a 12.5 per cent interest in Hornsea 1 from GIP and now co-owns it was Orsted (the operator), GIP, TRIG and Equitix.
+Sixpenny Wood Wind Farm is located in the East Riding of Yorkshire, England. It consists of 10 Senvion MM92 2.05MW turbines with a total capacity of 20.5MW. Sixpenny Wood is owned jointly by Greencoat UK Wind and Swiss Life Asset Management via a holding company. Greencoat UK Wind acquired its 51.6 per cent interest from AES.
+Humber Gateway is located 5 miles off the Yorkshire coast and consists of 73 Vestas V112 3MW turbines with a total capacity of 219MW. Greencoat UK Wind acquired a 38 per cent interest in Humber Gateway from RWE, a co-owner.
+Bishopthorpe Wind Farm is located in Lincolnshire, England. It consists of eight Senvion MM92 2.05MW turbines with a total capacity of 16.4MW. Greencoat UK Wind owns a 67.35% interest in Bishopthorpe having acquired the wind farm from Statkraft in September 2021 and disposed of a 32.65% interest in July 2025.
+Lindhurst Wind Farm is located in Nottinghamshire, England. It consists of five Vestas V90 1.8MW turbines with a total capacity of 9MW. Greencoat UK Wind acquired a 49 per cent interest in Lindhurst from Innogy.
+Bicker Fen is located in Lincolnshire, England. It consists of 13 Senvion MM82 2.05MW turbines with a total capacity of 26.7MW. Greencoat UK Wind acquired an 80 per cent interest in Bicker Fen from EDF Energy Renewables.
+Red House is located in Lincolnshire, England. It consists of six Senvion MM82 2.05MW turbines with a total capacity of 12.3MW. Greencoat UK Wind acquired an 80 per cent interest in Red House from EDF Energy Renewables.
+Deeping St Nicholas is located in Lincolnshire, England. It consists of eight Senvion MM82 2.05MW turbines with a total capacity of 16.4MW. Greencoat UK Wind acquired an 80 per cent interest in Deeping St Nicholas from EDF Energy Renewables.
+Glass Moor is located in Cambridgeshire, England. It consists of eight Senvion MM82 2.05MW turbines with a total capacity of 16.4MW. Greencoat UK Wind acquired an 80 per cent interest in Glass Moor from EDF Energy Renewables.
+Red Tile is located in Cambridgeshire, England. It consists of 12 Senvion MM82 2.05MW turbines with a total capacity of 24.6MW. Greencoat UK Wind acquired an 80 per cent interest in Red Tile from EDF Energy Renewables.
+Cotton Farm Wind Farm is located in Cambridgeshire, England. It consists of eight Senvion MM92 2.05MW turbines with a total capacity of 16.4MW. Greencoat UK Wind acquired a 100 per cent interest in Cotton Farm from BayWa. The wind farm was developed by Npower Renewables, part of the RWE Group.
+Yelvertoft Wind Farm is located in Northamptonshire, England. It consists of 8 Senvion MM92 2.05MW turbines with a total capacity of 16.4MW. Yelvertoft is owned jointly by Greencoat UK Wind and Swiss Life Asset Management via a holding company. Greencoat UK Wind acquired its 51.6 per cent interest from AES.
+Earl's Hall Farm Wind Farm is located in Essex, England. It consists of five Senvion MM92 2.05MW turbines with a total capacity of 10.25MW. Greencoat UK Wind acquired a 100 per cent interest in Earl's Hall Farm from BayWa. The wind farm was developed by Npower Renewables, part of the RWE Group.
+London Array is located 20 kilometres off the Kent coast in the outer Thames Estuary in England. It consists of 175 turbines with a total capacity of 630MW. Greencoat UK Wind acquired a 13.7% stake in London Array from Orsted and now co-owns it with RWE, CDPQ, Masdar and other funds managed by Schroders Greencoat.
+Little Cheyne Court Wind Farm is located in Kent, England. It consists of 26 Nordex N90 2.3MW turbines with a total capacity of 59.8MW. Greencoat UK Wind acquired a 41 per cent interest in Little Cheyne Court from Innogy.
+Rhyl Flats Wind Farm is located offshore, 8km off the north Wales coast in an average water depth of eight metres. It consists of 25 Siemens 3.6MW turbines with a total capacity of 90MW. Greencoat UK Wind acquired a 24.95 per cent interest in Rhyl Flats alongside UKGIB, which also acquired a 24.95 per cent interest. Innogy retains 50.1 per cent of Rhyl Flats following the acquisition.
+North Hoyle is located 5 miles off the North Wales coast in Liverpool Bay. It consists of 30 Vestas V80 2MW turbines with a total capacity of 60MW. Greencoat UK Wind acquired a 100 per cent interest in North Hoyle from a fund managed by JP Morgan Asset Management. The wind farm was developed by Innogy.
+Burbo Bank Extension is located 4 miles offshore, north of the Wirral in North West England and consists of 32 Vestas 8.13MW turbines with a total capacity of 258MW. Greencoat UK Wind acquired a 15.7 per cent interest in Burbo Bank Extension from AIP and now co-owns it with Orsted (the operator), Kirkbi (the Lego pension fund) and another fund also managed by Greencoat Capital.
+
+
+wales: 
+Maerdy Wind Farm is located in the Rhondda Valley, Glamorgan, Wales. It consists of eight Siemens 3.0MW turbines with a total capacity of 24MW. Greencoat UK Wind acquired a 100 per cent interest in Maerdy from Velocita. The wind farm was developed by Renewable Energy Partnerships.
+
+
+Northern Ireland:
+Brockaghboy Wind Farm is located in County Londonderry, Northern Ireland. It consists of 19 Nordex 2.5MW turbines giving a total capacity of 47.5MW. Greencoat UK Wind acquired a 100 per cent interest in Brockaghboy from ERG Power Generation.
+Slieve Divena II is located in Tyrone, Northern Ireland. It consists of 8 Enercon E-92 2.35MW turbines with a total capacity of 18.8MW. Greencoat UK Wind acquired a 100 per cent interest in Slieve Divena II from SSE.
+Slieve Divena is located in Tyrone, Northern Ireland. It consists of 12 Nordex N80 2.5MW turbines with a total capacity of 30MW. Greencoat UK Wind acquired a 100 per cent interest in Slieve Divena from a fund managed by JP Morgan Asset management. The wind farm was developed by SSE.
+Screggagh Wind Farm is located in Tyrone, Northern Ireland. It consists of eight Nordex 2.5MW turbines giving a total capacity of 20.0MW. Greencoat UK Wind acquired a 100 per cent interest in Screggagh.
+Tappaghan Wind Farm is located in Fermanagh, Northern Ireland. Tappaghan phase 1 (commissioned January 2005) consists of thirteen GE 1.5MW turbines and Tappaghan phase 2 (commissioned June 2009) consists of a further six GE 1.5MW turbines giving a total capacity of 28.5MW. Greencoat UK Wind acquired a 100 per cent interest in Tappaghan from SSE.
+Bin Mountain Wind Farm is located in Tyrone, Northern Ireland. It consists of six GE 1.5MW turbines with total capacity of 9MW. Greencoat UK Wind acquired a 100 per cent interest in Bin Mountain from SSE.
+Church Hill Wind Farm is located in Tyrone, Northern Ireland. It consists of 8 Enercon 2.3MW turbines giving a total capacity of 18.4MW. Greencoat UK Wind acquired a 100 per cent interest in Church Hill from the Irish Infrastructure Fund and Viridian.
+Crighshane Wind Farm is located in Tyrone, Northern Ireland. It consists of 14 Enercon 2.3MW turbines giving a total capacity of 32.2MW. Greencoat UK Wind acquired a 100 per cent interest in Crighshane from the Irish Infrastructure Fund and Viridian
