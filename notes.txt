@@ -1,0 +1,15 @@
+infrences:
+1. overview on 2024, show that it is unlikelly, non parametric test, compare with chi squared,
+explain why add inforgraphics
+2. predict revenue with wind data before reports come out
+
+data vise:
+
+see wheather means change over time. 
+parameters of distribution might change
+and dist itself might 
+find trends in changes
+use this fact to do better dcf
+
+actual prediction? predict wind
+
