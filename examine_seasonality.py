@@ -14,7 +14,7 @@ OUTPUT_DIR = Path("figures")
 OUTPUT_DIR.mkdir(exist_ok=True)
 
 STATION_ID = "00235"   # example: Stansted (change this)
-START_YEAR = 2010
+START_YEAR = 2019
 END_YEAR = 2023
 
 CHUNKSIZE = 1_000_000
