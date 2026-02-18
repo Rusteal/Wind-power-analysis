@@ -14,8 +14,8 @@ OUTPUT_DIR = Path("figures")
 OUTPUT_DIR.mkdir(exist_ok=True)
 
 STATION_ID = "00235"   # example: Stansted (change this)
-START_YEAR = 2019
-END_YEAR = 2023
+START_YEAR = 1949
+END_YEAR = 2026
 
 CHUNKSIZE = 1_000_000
 ROLLING_DAYS = 7
@@ -205,6 +205,35 @@ def plot_monthly_climatology(
     plt.savefig(output_dir / f"monthly_climatology_{station_id}.png", dpi=300)
     plt.close()
 
+def plot_quarterly_mean_time_series(
+    df: pd.DataFrame,
+    station_id: str,
+    output_dir: Path
+) -> None:
+    """
+    Plot quarterly mean wind speed over time.
+    """
+    if df.empty:
+        print("No data for quarterly mean plot. Skipping.")
+        return
+
+    quarterly = df["mean"].resample("QE").mean().dropna()
+    if quarterly.empty:
+        print("No quarterly data after resampling. Skipping.")
+        return
+
+    fig, ax = plt.subplots(figsize=(18, 5))
+    ax.plot(quarterly.index, quarterly.values, color="teal", linewidth=1.2)
+
+    ax.set_xlabel("Quarter")
+    ax.set_ylabel("Quarterly mean wind speed")
+    ax.set_title(f"Quarterly Mean Wind Speed (1949-2026) - Station {station_id}")
+    ax.grid(alpha=0.3)
+
+    plt.tight_layout()
+    plt.savefig(output_dir / f"quarterly_mean_{station_id}.png", dpi=300)
+    plt.close()
+
 
 if __name__ == "__main__":
     df_daily = aggregate_daily_wind(
@@ -225,6 +254,7 @@ if __name__ == "__main__":
         )
         sys.exit(0)
 
-    plot_daily_mean(df_daily, STATION_ID, OUTPUT_DIR)
-    plot_daily_variance(df_daily, STATION_ID, OUTPUT_DIR)
-    plot_monthly_climatology(df_daily, STATION_ID, OUTPUT_DIR)
+    # plot_daily_mean(df_daily, STATION_ID, OUTPUT_DIR)
+    # plot_daily_variance(df_daily, STATION_ID, OUTPUT_DIR)
+    # plot_monthly_climatology(df_daily, STATION_ID, OUTPUT_DIR)
+    plot_quarterly_mean_time_series(df_daily, STATION_ID, OUTPUT_DIR)
