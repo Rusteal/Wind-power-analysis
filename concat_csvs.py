@@ -220,7 +220,7 @@ def quick_normality_check(sample_csv=SAMPLE_CSV):
         print("\nSciPy not installed – skipping formal normality test.")
 
     # Histogram
-    plt.hist(speeds, bins=250, density=False)
+    plt.hist(speeds, bins=500, density=False)
     plt.xlabel("mean_wind_speed (knots)")
     plt.ylabel("Density")
     plt.title("Histogram of mean wind speed (sample)")
@@ -250,16 +250,16 @@ def analyze_sample(sample_path: Path = SAMPLE_CSV):
 
     # Define distributions to compare
     distributions = {
-        #"Normal": stats.norm,
-        #"Half-Normal": stats.halfnorm,
-        "Chi-Squared (df=2)": stats.chi2(2),
+        "Normal": stats.norm,
+        "Half-Normal": stats.halfnorm,
+        #"Chi-Squared (df=2)": stats.chi2(2),
         "Chi-Squared (df=3)": stats.chi2(3),
         "Chi-Squared (df=4)": stats.chi2(4),
         "Chi-Squared (df=5)": stats.chi2(5),
-        "Chi-Squared (df=6)": stats.chi2(6),
-        "Chi-Squared (df=7)": stats.chi2(7),
+        #"Chi-Squared (df=6)": stats.chi2(6),
+        #"Chi-Squared (df=7)": stats.chi2(7),
         #"F(5,2)": stats.f(5, 2),
-        #"Half-t(df=5)": None,  # custom, see below
+        "Half-t(df=5)": None,  # custom, see below
     }
 
     fig, axes = plt.subplots(2, 3, figsize=(12, 8))
@@ -290,7 +290,7 @@ if __name__ == "__main__":
     # build_master_and_sample()
     # logging.info("Done.")
 
-    #quick_normality_check()
+    quick_normality_check()
     
     analyze_sample()
     
