@@ -14,3 +14,4 @@ use this fact to do better dcf
 actual prediction? predict wind
 
 #box jenkins test for check pf seasonality
+#Dickey-Fuller test, prefered method of seasonality adjustment according to jullie
